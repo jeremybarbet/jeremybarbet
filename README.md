@@ -1,4 +1,8 @@
-👋   Hi there, I'm Jérémy, a French front-end developer currently living in the beautiful Reykjavík, Iceland. During the last few years, I've been working on amazing projects for great clients like Uber, Visa, Nova and many others.
+👋   Hi there, I'm Jérémy, a French front-end developer currently living in the beautiful Reykjavík, Iceland.
+
+### Work
+
+During the last few years, I've been working on amazing projects for great clients like Uber, Visa, Nova and many others. I've been experimenting and working with a lot of different technologies/tools: React, React Native, Node.js, TypeScript, GraphQL, CSS Modules, Styled Components, Bash, Psql, Heroku, Firebase, AWS, ...
 
 ### Open source
 
