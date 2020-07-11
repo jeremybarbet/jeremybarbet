@@ -1,4 +1,4 @@
-👋  Hi there, I'm Jérémy, a French front-end developer currently living in the beautiful Reykjavík, Iceland. During the last few years, I've been working on amazing projects for great clients like Uber, Visa, Nova and many others.
+👋   Hi there, I'm Jérémy, a French front-end developer currently living in the beautiful Reykjavík, Iceland. During the last few years, I've been working on amazing projects for great clients like Uber, Visa, Nova and many others.
 
 ### Open source
 
@@ -16,8 +16,8 @@ I spend a lot of time on my side-project, [hello aurora](https://www.hello-auror
 
 ### Get in touch
 
-- 📷  Instagram [instagram.com/jeremy.barbet](https://www.instagram.com/jeremy.barbet)
-- 💬  Twitter [twitter.com/jeremybarbet](https://twitter.com/jeremybarbet)
+- 📷   Instagram [instagram.com/jeremy.barbet](https://www.instagram.com/jeremy.barbet)
+- 💬   Twitter [twitter.com/jeremybarbet](https://twitter.com/jeremybarbet)
 
 <!--
 **jeremybarbet/jeremybarbet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
