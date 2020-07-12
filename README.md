@@ -2,7 +2,7 @@
 
 ### Work
 
-During the last few years, I've been working on amazing projects for great clients like Uber, Visa, Nova, Zabka and many others. I've been experimenting and working with a lot of different technologies/tools: React, React Native, Node.js, TypeScript, GraphQL, CSS Modules, Styled Components, Bash, Psql, Heroku, Firebase, AWS, ...
+During the last few years, I've been working on amazing projects for great clients like Uber, Visa, Nova, Żabka and many others. I've been experimenting and working with a lot of different technologies/tools: React, React Native, Node.js, TypeScript, GraphQL, CSS Modules, Styled Components, Bash, Psql, Heroku, Firebase, AWS, ...
 
 ### Open source
 
