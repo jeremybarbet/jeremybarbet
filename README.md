@@ -10,7 +10,7 @@ When I'm not busy at work, I create, maintain and contribute to open-source proj
 - [react-native-modalize](https://github.com/jeremybarbet/react-native-modalize)
 - [react-native-portalize](https://github.com/jeremybarbet/react-native-portalize)
 - [next-react-svg](https://github.com/jeremybarbet/next-react-svg)
-- [next-react-videos](https://github.com/jeremybarbet/next-react-videos)
+- [next-videos](https://github.com/jeremybarbet/next-videos)
 - [react-native](https://github.com/facebook/react-native), [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped), [Gatsby](https://github.com/gatsbyjs/gatsby), [next.js](https://github.com/vercel/next.js/)
 - and many others...
 
